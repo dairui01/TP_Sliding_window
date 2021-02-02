@@ -1,0 +1,57 @@
+event,start_frame,end_frame
+Walk,113,142
+Walk,182,223
+Sit down,272,299
+Watch TV,886,1024
+Drink.From_cup,1025,1094
+Watch TV,1095,1219
+Watch TV,1262,1448
+Watch TV,1554,1887
+Watch TV,1959,2020
+Drink.From_cup,2021,2091
+Watch TV,2092,2451
+Drink.From_cup,2452,2539
+Watch TV,2540,3041
+Watch TV,3099,3401
+Watch TV,3582,3941
+Drink.From_cup,3942,4041
+Watch TV,4042,4216
+Drink.From_cup,4217,4295
+Watch TV,4296,4591
+Drink.From_cup,4592,4670
+Watch TV,4671,4784
+Watch TV,4870,6362
+Drink.From_cup,6363,6471
+Watch TV,6472,6749
+Drink.From_cup,6750,6813
+Watch TV,6814,8727
+Watch TV,8746,8777
+Drink.From_cup,8778,8892
+Watch TV,8893,9159
+Drink.From_cup,9160,9252
+Watch TV,9253,9278
+Watch TV,9345,11895
+Watch TV,11985,13101
+Watch TV,13149,13198
+Drink.From_cup,13199,13272
+Watch TV,13273,13501
+Drink.From_cup,13502,13583
+Watch TV,13584,13899
+Drink.From_cup,13900,13985
+Watch TV,13986,14925
+Drink.From_cup,14926,15025
+Watch TV,15026,15482
+Drink.From_cup,15483,15569
+Watch TV,15570,16119
+Drink.From_cup,16120,16210
+Watch TV,16211,16784
+Drink.From_cup,16785,16851
+Watch TV,16852,17709
+Drink.From_cup,17710,17785
+Watch TV,17786,18106
+Get up,18215,18235
+Walk,18236,18281
+Walk,18319,18368
+Sit down,18388,18444
+Read book,18535,24170
+Drink.From_cup,24232,24284
